@@ -35,3 +35,5 @@
     Any commercial use, redistribution, or branding of this Software requires written permission from the Author. The Software is patent-protected.
 
 END OF TERMS AND CONDITIONS
+
+Copyright [2025]  [CodeRafay]
